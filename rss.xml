@@ -2,14 +2,22 @@
     <channel>
         <title><![CDATA[TandemArch]]></title>
         <description><![CDATA[TandemArch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://tandemarch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 05:51:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 08:40:19 GMT</lastBuildDate>
+        <atom:link href="http://tandemarch.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hipsters Are Postmodernists]]></title>
+            <description><![CDATA[<article><h1>Hipsters Are Postmodernists</h1><p>One popular belief is that postmodernism as a movement was rooted in nostalgia.  I disagree.  Postmodernism started as an ironic movement, much like an ironic hipster mustache gains enough popular momentum to be propelled into main stream culture.
+Feeling stifled by ultra constrained modernism, some artists and architects experimented with kitschy ionic columns and garish colors as a folly. The irony of designing warped Italianate structures after being trained to respect rational cleanliness must have been exhilarating for architects like Robert Venturi, who wrote "less is a bore" in response to Mies Van der Rohe's famous dictum "less is more." </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49572dd40c177f30c8ab436825dd732e65195c8b.jpg"></article>]]></description>
+            <link>http://tandemarch.com/hipsters-are-postmodernists/index.html</link>
+            <guid isPermaLink="false">56b8b6e0-c4e2-4e8c-bc04-88a0b3b5158a</guid>
+            <pubDate>Sat, 06 Feb 2016 08:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51468477-ef16-406c-b516-5632f10a2098.jpg">]]></description>
-            <link>undefinedae5eafc7-b6bb-40e0-af08-2422a96308e6/index.html</link>
+            <link>http://tandemarch.com/ae5eafc7-b6bb-40e0-af08-2422a96308e6/index.html</link>
             <guid isPermaLink="false">ae5eafc7-b6bb-40e0-af08-2422a96308e6</guid>
             <pubDate>Sat, 06 Feb 2016 05:51:35 GMT</pubDate>
         </item>
