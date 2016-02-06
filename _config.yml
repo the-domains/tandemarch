@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.865108
+  lightness: 0.2858347
+  brandStrength: 0.6079258
+  brandColors:
+    - '#160E15'
+    - '#FEFFF9'
+    - '#1F426E'
+    - '#FF4B02'
+    - '#FFFF30'
+  rhythmicContrast: 0.6273187
+typography_spectrum: 0.7183811
+name: TandemArch
