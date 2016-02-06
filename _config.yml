@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.865108
-  lightness: 0.2858347
   brandStrength: 0.6079258
+  rhythmicContrast: 0.6273187
   brandColors:
     - '#160E15'
     - '#FEFFF9'
     - '#1F426E'
     - '#FF4B02'
     - '#FFFF30'
-  rhythmicContrast: 0.6273187
+  lightness: 0.2858347
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.7183811
 name: TandemArch
