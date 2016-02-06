@@ -1,14 +1,7 @@
-color:
-  saturation: 0.865108
-  brandStrength: 0.6079258
-  rhythmicContrast: 0.6273187
-  brandColors:
-    - '#160E15'
-    - '#FEFFF9'
-    - '#1F426E'
-    - '#FF4B02'
-    - '#FFFF30'
-  lightness: 0.2858347
+name: TandemArch
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7183811
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.7183811
-name: TandemArch
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#160E15'
+    - '#FEFFF9'
+    - '#1F426E'
+    - '#FF4B02'
+    - '#FFFF30'
+  brandStrength: 0.6079258
+  lightness: 0.2858347
+  saturation: 0.865108
+  rhythmicContrast: 0.6273187
+purpose: []
