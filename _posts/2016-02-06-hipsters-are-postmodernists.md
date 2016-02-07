@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Airbrushed Wolf Sweaters
-datePublished: '2016-02-07T15:12:31.719Z'
-dateModified: '2016-02-07T05:02:25.455Z'
+datePublished: '2016-02-07T15:21:52.134Z'
+dateModified: '2016-02-07T15:21:48.333Z'
 title: Hipsters Are Postmodernists
 author: []
 sourcePath: _posts/2016-02-06-hipsters-are-postmodernists.md
@@ -23,11 +23,11 @@ _type: Article
 
 ---
 # Hipsters Are Postmodernists
+![A heavily filtered photo of a cupcake wearing a mustache: the ultimate postmodern hipster image](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02ef33ba9063a87d3dc46e220ad58e9fcde6f1eb.jpg)
 
 ## Airbrushed Wolf Sweaters
 
 _Kit Kollmeyer_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22e8bd73acddf3d82a56dd41334c89bfa1779043.jpg)
 
 Some believe that postmodernism as a movement was rooted in nostalgia. I disagree. Postmodernism started as an ironic movement, much like an ironic hipster mustache gains enough popular momentum to be propelled into main stream culture.
 Feeling stifled by ultra constrained modernism, some artists and architects experimented with kitschy ionic columns and garish colors as a folly. The irony of designing warped Italianate structures after being trained to respect rational cleanliness must have been exhilarating for architects like Robert Venturi, who wrote "less is a bore" in response to Mies Van der Rohe's famous dictum "less is more." 
