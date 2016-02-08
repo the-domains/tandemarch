@@ -1,7 +1,7 @@
 name: TandemArch
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.37618
+typography_spectrum: 0.15399
 collections:
   - index:
       path: /
